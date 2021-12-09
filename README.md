@@ -1,6 +1,6 @@
-# AngularJS "ByteBank" frontend
+# Angular "ByteBank" frontend
 
-This is simple AnngularJS frontend developed on Alura Angular course</br>
+This is simple Angular frontend developed on Alura Angular course</br>
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.</br>
 </br>
 
@@ -27,6 +27,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 * ## Further help
 
 <p>To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.</p>
+
+## API mock
+<p>This porject uses Json-Server to mock an API, this mocked API data is in 'dados/db.json'</p>
 
 <br><br>
 *Developed by: Adriano Siqueira<br>
